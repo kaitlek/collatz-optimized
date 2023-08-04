@@ -22,13 +22,13 @@ pub fn compute(mut input: u64) -> u64 {
 }   
 ```
 
-Traditional C program to check stopping time
+Traditional C program to check stopping time checking numbers 1 - 100000000
 ```bash
 Time taken: 47.14 seconds.
 Found largest: 949 (#63728127)
 ```
 
-Collatz-Optimized
+Collatz-Optimized checking numbers 1 - 100000000
 ```bash
 >>> Found largest: 949 (#63728127)
 >>> Took 0.355 s to compute
